@@ -5,7 +5,7 @@ export default function App() {
   let myname =<Text>110719023 史翊芃</Text>
   return (
     <View style={styles.container}>
-      <Text>哈囉 RN!</Text>
+      <Text>hello RN!</Text>
       <Text>110719023 史翊芃</Text>
     </View>
   );
